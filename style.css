@@ -1,8 +1,15 @@
-h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+body{
+    background-image: url('imagenes/vale.jpeg') ; ;
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+
+1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:black
 }
 h2{
-    background: rgb(211, 163, 163);
+    background: rgb(255, 255, 255);
     color: brown;
 }
